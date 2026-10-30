@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Karthikeyan+%F0%9F%91%8B;Aspiring+Java+Full+Stack+Developer;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Karthikeyan+%F0%9F%91%8B;Java+Full+Stack+Developer;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/Karthi-Tech7">
